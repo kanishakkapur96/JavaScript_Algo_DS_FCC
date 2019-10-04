@@ -1,2 +1,2 @@
-# JavaScript_Algo_DS_FCC
-Code for FreeCodeCamp Javascript Algorithms and Data Structures Excercises
+# Basic JavaScript
+Code for FreeCodeCamp Javascript Basic Excercises
